@@ -1,0 +1,11 @@
+C:\Users\gabri\Desktop\morse\morse\bin\Debug\morse.exe
+C:\Users\gabri\Desktop\morse\morse\bin\Debug\morse.pdb
+C:\Users\gabri\Desktop\morse\morse\bin\Debug\morse.xml
+C:\Users\gabri\Desktop\morse\morse\obj\Debug\morse.vbprojAssemblyReference.cache
+C:\Users\gabri\Desktop\morse\morse\obj\Debug\morse.frm_morse.resources
+C:\Users\gabri\Desktop\morse\morse\obj\Debug\morse.Resources.resources
+C:\Users\gabri\Desktop\morse\morse\obj\Debug\morse.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\morse\morse\obj\Debug\morse.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\morse\morse\obj\Debug\morse.exe
+C:\Users\gabri\Desktop\morse\morse\obj\Debug\morse.xml
+C:\Users\gabri\Desktop\morse\morse\obj\Debug\morse.pdb

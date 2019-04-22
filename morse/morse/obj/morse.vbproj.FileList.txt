@@ -1,0 +1,10 @@
+bin\Debug\morse.exe
+bin\Debug\morse.pdb
+bin\Debug\morse.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\morse.Resources.resources
+obj\Debug\morse.vbproj.GenerateResource.Cache
+obj\Debug\morse.exe
+obj\Debug\morse.xml
+obj\Debug\morse.pdb
+obj\Debug\morse.frm_morse.resources

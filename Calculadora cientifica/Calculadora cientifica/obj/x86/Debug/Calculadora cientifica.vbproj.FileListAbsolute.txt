@@ -1,0 +1,31 @@
+C:\Users\KELVIN\AppData\Local\Temporary Projects\Calculadora cientifica\bin\Debug\Calculadora cientifica.exe
+C:\Users\KELVIN\AppData\Local\Temporary Projects\Calculadora cientifica\bin\Debug\Calculadora cientifica.pdb
+C:\Users\KELVIN\AppData\Local\Temporary Projects\Calculadora cientifica\bin\Debug\Calculadora cientifica.xml
+C:\Users\KELVIN\AppData\Local\Temporary Projects\Calculadora cientifica\obj\x86\Debug\Calculadora_cientifica.Form1.resources
+C:\Users\KELVIN\AppData\Local\Temporary Projects\Calculadora cientifica\obj\x86\Debug\Calculadora_cientifica.Resources.resources
+C:\Users\KELVIN\AppData\Local\Temporary Projects\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.vbproj.GenerateResource.Cache
+C:\Users\KELVIN\AppData\Local\Temporary Projects\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.exe
+C:\Users\KELVIN\AppData\Local\Temporary Projects\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.xml
+C:\Users\KELVIN\AppData\Local\Temporary Projects\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.pdb
+C:\Users\KELVIN\AppData\Local\Temporary Projects\Calculadora cientifica\obj\x86\Debug\Calculadora_cientifica.Form2.resources
+C:\Users\KELVIN\Documents\Visual Studio 2010\Projects\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.exe
+C:\Users\KELVIN\Documents\Visual Studio 2010\Projects\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.xml
+C:\Users\KELVIN\Documents\Visual Studio 2010\Projects\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.pdb
+C:\Users\KELVIN\Documents\Visual Studio 2010\Projects\Calculadora cientifica\Calculadora cientifica\bin\Debug\Calculadora cientifica.exe
+C:\Users\KELVIN\Documents\Visual Studio 2010\Projects\Calculadora cientifica\Calculadora cientifica\bin\Debug\Calculadora cientifica.pdb
+C:\Users\KELVIN\Documents\Visual Studio 2010\Projects\Calculadora cientifica\Calculadora cientifica\bin\Debug\Calculadora cientifica.xml
+C:\Users\KELVIN\Documents\Visual Studio 2010\Projects\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora_cientifica.Form1.resources
+C:\Users\KELVIN\Documents\Visual Studio 2010\Projects\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora_cientifica.Form2.resources
+C:\Users\KELVIN\Documents\Visual Studio 2010\Projects\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora_cientifica.Resources.resources
+C:\Users\KELVIN\Documents\Visual Studio 2010\Projects\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.vbproj.GenerateResource.Cache
+C:\Users\gabri\Desktop\Calculadora cientifica\Calculadora cientifica\bin\Debug\Calculadora cientifica.exe
+C:\Users\gabri\Desktop\Calculadora cientifica\Calculadora cientifica\bin\Debug\Calculadora cientifica.pdb
+C:\Users\gabri\Desktop\Calculadora cientifica\Calculadora cientifica\bin\Debug\Calculadora cientifica.xml
+C:\Users\gabri\Desktop\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.vbprojAssemblyReference.cache
+C:\Users\gabri\Desktop\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora_cientifica.Form2.resources
+C:\Users\gabri\Desktop\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora_cientifica.Resources.resources
+C:\Users\gabri\Desktop\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.exe
+C:\Users\gabri\Desktop\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.xml
+C:\Users\gabri\Desktop\Calculadora cientifica\Calculadora cientifica\obj\x86\Debug\Calculadora cientifica.pdb

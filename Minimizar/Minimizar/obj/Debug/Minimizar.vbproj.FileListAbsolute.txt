@@ -1,0 +1,34 @@
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\bin\Debug\Minimizar.exe.config
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\bin\Debug\Minimizar.exe
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\bin\Debug\Minimizar.pdb
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\bin\Debug\Minimizar.xml
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.vbprojResolveAssemblyReference.cache
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.Resources.resources
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.vbproj.GenerateResource.Cache
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.exe
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.xml
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.pdb
+C:\Users\Humberto Molina l\Documents\Visual Studio 2015\Projects\Minimizar\Minimizar\obj\Debug\Minimizar.frmsuma.resources
+C:\Users\humbe\Desktop\Minimizar\Minimizar\bin\Debug\Minimizar.exe.config
+C:\Users\humbe\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.exe
+C:\Users\humbe\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.xml
+C:\Users\humbe\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.pdb
+C:\Users\humbe\Desktop\Minimizar\Minimizar\bin\Debug\Minimizar.exe
+C:\Users\humbe\Desktop\Minimizar\Minimizar\bin\Debug\Minimizar.pdb
+C:\Users\humbe\Desktop\Minimizar\Minimizar\bin\Debug\Minimizar.xml
+C:\Users\humbe\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.vbprojResolveAssemblyReference.cache
+C:\Users\humbe\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.frmsuma.resources
+C:\Users\humbe\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.Resources.resources
+C:\Users\humbe\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.vbproj.GenerateResource.Cache
+C:\Users\gabri\Desktop\Minimizar\Minimizar\bin\Debug\Minimizar.exe.config
+C:\Users\gabri\Desktop\Minimizar\Minimizar\bin\Debug\Minimizar.exe
+C:\Users\gabri\Desktop\Minimizar\Minimizar\bin\Debug\Minimizar.pdb
+C:\Users\gabri\Desktop\Minimizar\Minimizar\bin\Debug\Minimizar.xml
+C:\Users\gabri\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.vbprojAssemblyReference.cache
+C:\Users\gabri\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.frmsuma.resources
+C:\Users\gabri\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.Resources.resources
+C:\Users\gabri\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.exe
+C:\Users\gabri\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.xml
+C:\Users\gabri\Desktop\Minimizar\Minimizar\obj\Debug\Minimizar.pdb
